@@ -1,5 +1,5 @@
 # Investigating-social-inequality-of-urban-green-space-distribution-using-Sentinel-2
-This code supports a manuscript 
+This code supports a manuscript. Note that only a part of the data to replicate this work is freely available (links can be found in the scripts). The socio-economic data can be purchased from http://www.statistik.at/web_de/klassifikationen/regionale_gliederungen/regionalstatistische_rastereinheiten/index.html
 
 Abstract:
 Urban green space (UGS) is known to provide several benefits for the local population, including regulating local climate and improving human health. The inequality hypothesis claims that these environmental amenities are unequally distributed across space and among different social groups. We propose using a continuous vegetation index derived from satellite imagery to investigate environmental inequality (EI) in UGS distribution. We used spatial autoregressive models to describe the relationship between the normalized difference vegetation index (NDVI) and socioeconomic variables in a case study on the city of Vienna at an unprecedented level of detail (250~m resolution).
